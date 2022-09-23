@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY ./dogcare test:/usr/share/nginx/html
+COPY ./dogcare /usr/share/nginx/html
